@@ -31,6 +31,9 @@ Copy
 Edit
 http://localhost:3000
 Snapshot of Application
-![Screenshot 2025-06-06 151525](https://github.com/user-attachments/assets/5f8c505b-ab8a-41a0-8952-ed0cde166ac4)
 
 
+
+![Screenshot 2025-06-06 151429](https://github.com/user-attachments/assets/eba682b1-64bd-4e44-942f-6efabb780b48)
+![Screenshot 2025-06-06 151429](https://github.com/user-attachments/assets/6d0f2e98-da5e-4e83-9bb8-2b2917335de7)
+![Screenshot 2025-06-06 151525](https://github.com/user-attachments/assets/c94e1039-3645-464f-b09c-a05213a3cd92)
