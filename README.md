@@ -1,7 +1,33 @@
-A full-stack To-Do List application built with Spring Boot backend and React frontend.
+Overview
+A Todo List application that allows users to create, read, update, delete, and mark tasks as completed. It also supports filtering and pagination features.
 
-Users can add, update, delete, and view tasks.
+Frontend developed with React
 
-Backend provides REST API with CRUD operations.
+Backend developed with Spring Boot
 
-Frontend interacts with the backend using Axios and displays tasks dynamically.
+How to Run Application
+Prerequisites
+Install Node.js (for running the React frontend)
+
+Install Maven (for running the Spring Boot backend)
+
+Run Frontend
+bash
+Copy
+Edit
+cd frontend
+npm run production
+Run Backend
+bash
+Copy
+Edit
+cd backend/to-do-list
+mvn spring-boot:run
+Access the Application
+Open your browser and visit:
+
+arduino
+Copy
+Edit
+http://localhost:3000
+Snapshot of Application
